@@ -1,0 +1,12 @@
+[package]
+authors = ["Kenan Sulayman <kenan@sly.mn>"]
+name = "telegram-caterpillar"
+version = "0.1.0"
+
+[dependencies]
+futures = "0.1.14"
+hyper = "0.11.1"
+hyper-tls = "0.1.2"
+json = "0.11.8"
+telegram-bot = "0.5.0"
+tokio-core = "0.1.8"
